@@ -1,0 +1,25 @@
+# 题目描述
+反转一个只有3位数的整数。
+
+样例
+123 反转之后是 321。
+900 反转之后是 9。
+
+注意事项
+你可以假设输入一定是一个只有三位数的整数，这个整数大于等于100，小于1000。
+
+# 解题代码
+```
+class Solution:
+    """
+    @param number: A 3-digit number.
+    @return: Reversed number.
+    """
+    def reverseInteger(self, number):
+        # write your code here
+        one = number // 100
+        two = number % 100 // 10
+        three = number % 10
+        return three * 100 + two * 10 + one
+
+```
