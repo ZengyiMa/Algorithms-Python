@@ -14,3 +14,5 @@
 
 [链表节点计数](链表节点计数.markdown)
 
+[Jewels and Stones](Jewels and Stones.ipynb)
+
