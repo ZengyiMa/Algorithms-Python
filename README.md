@@ -18,3 +18,5 @@
 
 [Unique Email Addresses](Unique Email Addresses.ipynb)
 
+[To Lower Case](To Lower Case.ipynb)
+
