@@ -1,4 +1,4 @@
-# Algorithms-Python
+[i# Algorithms-Python
 算法仓库
 
 # 题目
@@ -15,4 +15,6 @@
 [链表节点计数](链表节点计数.markdown)
 
 [Jewels and Stones](Jewels and Stones.ipynb)
+
+[Unique Email Addresses](Unique Email Addresses.ipynb)
 
