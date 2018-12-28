@@ -20,3 +20,7 @@
 
 [To Lower Case](To Lower Case.ipynb)
 
+[N-Repeated Element in Size 2N Array](N-Repeated Element in Size 2N Array.ipynb)
+
+
+
