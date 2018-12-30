@@ -24,5 +24,7 @@
 
 [Unique Morse Code Words](Unique Morse Code Words.ipynb)
 
+[Sort Array By Parity](Sort Array By Parity.ipynb)
+
 
 
