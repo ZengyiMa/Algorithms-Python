@@ -32,5 +32,7 @@
 
 [Univalued Binary Tree](Univalued Binary Tree.ipynb)
 
+[Delete Columns to Make Sorted](Delete Columns to Make Sorted.ipynb)
+
 
 
