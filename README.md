@@ -36,5 +36,7 @@
 
 [Hamming Distance](Hamming Distance.ipynb)
 
+[DI String Match](DI String Match.ipynb)
+
 
 
