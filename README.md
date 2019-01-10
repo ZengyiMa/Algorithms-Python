@@ -1,7 +1,8 @@
-[i# Algorithms-Python
-算法仓库
+Leetcode 仓库
 
 # 题目
+
+
 [反转一个3位整数](反转一个3位整数.markdown)
 
 [大小写转换](大小写转换.markdown)
@@ -14,29 +15,29 @@
 
 [链表节点计数](链表节点计数.markdown)
 
-[Jewels and Stones](Jewels and Stones.ipynb)
+[Jewels and Stones](JewelsandStones.ipynb)
 
-[Unique Email Addresses](Unique Email Addresses.ipynb)
+[Unique Email Addresses](UniqueEmailAddresses.ipynb)
 
-[To Lower Case](To Lower Case.ipynb)
+[To Lower Case](ToLowerCase.ipynb)
 
-[N-Repeated Element in Size 2N Array](N-Repeated Element in Size 2N Array.ipynb)
+[N-Repeated Element in Size 2N Array](N-RepeatedElementinSize2NArray.ipynb)
 
-[Unique Morse Code Words](Unique Morse Code Words.ipynb)
+[Unique Morse Code Words](UniqueMorseCodeWords.ipynb)
 
-[Sort Array By Parity](Sort Array By Parity.ipynb)
+[Sort Array By Parity](SortArrayByParity.ipynb)
 
-[Flipping an Image](Flipping an Image.ipynb)
+[Flipping an Image](FlippinganImage.ipynb)
 
-[Robot Return to Origin](Robot Return to Origin.ipynb)
+[Robot Return to Origin](RobotReturntoOrigin.ipynb)
 
-[Univalued Binary Tree](Univalued Binary Tree.ipynb)
+[Univalued Binary Tree](UnivaluedBinaryTree.ipynb)
 
-[Delete Columns to Make Sorted](Delete Columns to Make Sorted.ipynb)
+[Delete Columns to Make Sorted](DeleteColumnstoMakeSorted.ipynb)
 
-[Hamming Distance](Hamming Distance.ipynb)
+[Hamming Distance](HammingDistance.ipynb)
 
-[DI String Match](DI String Match.ipynb)
+[DI String Match](DIStringMatch.ipynb)
 
 
 
