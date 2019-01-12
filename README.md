@@ -41,5 +41,7 @@ Leetcode 仓库
 
 [Merge Two Binary Trees](MergeTwoBinaryTrees.ipynb)
 
+[Peak Index in a Mountain Array](PeakIndexinaMountainArray.ipynb)
+
 
 
