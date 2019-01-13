@@ -43,5 +43,7 @@ Leetcode 仓库
 
 [Peak Index in a Mountain Array](PeakIndexinaMountainArray.ipynb)
 
+[Self Dividing Numbers](SelfDividingNumbers.ipynb)
+
 
 
