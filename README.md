@@ -45,5 +45,7 @@ Leetcode 仓库
 
 [Self Dividing Numbers](SelfDividingNumbers.ipynb)
 
+[K Closest Points to Origin](KClosestPointstoOrigin.ipynb)
+
 
 
