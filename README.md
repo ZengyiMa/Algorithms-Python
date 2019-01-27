@@ -49,5 +49,7 @@ Leetcode 仓库
 
 23、[Squares of a Sorted Array](SquaresofaSortedArray.ipynb)
 
+24、[Array Partition I](ArrayPartitionI.ipynb)
+
 
 
