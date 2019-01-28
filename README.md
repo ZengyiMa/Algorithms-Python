@@ -51,5 +51,7 @@ Leetcode 仓库
 
 24、[Array Partition I](ArrayPartitionI.ipynb)
 
+25、[Number of Recent Calls](NumberofRecentCalls.ipynb)
+
 
 
