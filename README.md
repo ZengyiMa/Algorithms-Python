@@ -53,5 +53,7 @@ Leetcode 仓库
 
 25、[Number of Recent Calls](NumberofRecentCalls.ipynb)
 
+26、[Fibonacci Number](FibonacciNumber.ipynb)
+
 
 
