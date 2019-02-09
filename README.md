@@ -55,5 +55,7 @@ Leetcode 仓库
 
 26、[Fibonacci Number](FibonacciNumber.ipynb)
 
+27、[Two Sum](TwoSum.ipynb)
+
 
 
